@@ -47,7 +47,7 @@ React, Vue, GSAP
 ## Contact
 - GitHub: https://github.com/sohailcodes-ai  
 - Email: sohailali8480@gmail.com  
-- Portfolio: https://mdsohailali-dev.github.io/Portfolio/
+- Portfolio: sam-xi-eight.vercel.app
 
 ---
 
