@@ -57,7 +57,7 @@ Collaborating on products that actually ship.
 If you're building something real reach out.
 
 📧 sohailali8480@gmail.com  
-🌐 [Portfolio](https://sam-xi-eight.vercel.app)  
+🌐 [Portfolio](https://samx-portfolio.vercel.app)  
 💼 [LinkedIn](https://linkedin.com/in/sᴀᴍ-io-b48bb6361/)
 
 
