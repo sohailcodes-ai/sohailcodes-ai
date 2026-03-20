@@ -1,54 +1,53 @@
-# Hey 👋, I'm Md Sohail Ali
+# Hey, I'm Sohail 👋
 
-**Real-Time Multiplayer & Game Systems Engineer**  
-Building low-latency, scalable game backends and real-time systems.
+Full-stack developer & solo builder. I don't just learn tech I ship things with it.
 
----
+18 y/o. BCA student. Building products independently since before I knew what
+"production" meant.
 
-## Focus
-- Real-time multiplayer architectures (authoritative servers, state sync)
-- Game backend systems (matchmaking, rooms, sessions)
-- Performance-focused systems using Rust, Node.js, and WebSockets
+## What I've Built
 
----
+**[uncensored.chat](https://uncensored.chat)**
+AI chat platform — 1000+ characters, privacy-first, built and scaled solo.
+Stack: Next.js · Node.js · PostgreSQL · Redis · AWS (EC2/S3/CloudFront)
 
-## Current Work
-- Designing a **Real-Time Multiplayer Game Platform**
-- Exploring **Rust for high-performance networking**
-- Learning **Unreal Engine 5** from a systems-first perspective
+**[NexOS](https://nexos-desktop.vercel.app)**
+A fully functional Web OS in the browser. Window manager, built-in apps,
+real file persistence — all of it.
+Stack: React · Supabase · WebSockets · Railway · Anthropic API
 
----
+**[Stackmates](https://stackmates.dev)** *(in progress)*
+Developer community platform — real-time coding rooms, multi-language compiler,
+XP system, daily challenges, AI support.
+Stack: Next.js · Node.js · WebSockets · PostgreSQL · Redis
 
-## Open Source
-I’m interested in collaborating on:
-- Multiplayer game servers
-- Open-source game engines
-- Real-time networking libraries
+**NutriSmart / NutriWise AI** *(in progress)*
+AI-powered nutrition tracking. Not another calorie counter — actually smart.
+Stack: React · Supabase · LLM integrations
 
-If your project deals with **latency, sync, or scale**, I’m interested.
+## Stack
 
----
+**Core:** TypeScript · JavaScript · Python  
+**Frontend:** Next.js · React · Tailwind  
+**Backend:** Node.js · PostgreSQL · Redis · Supabase  
+**Infra:** Vercel · Railway · AWS  
+**AI:** Anthropic API · LLM integrations  
+**Real-time:** WebSockets · Socket.io
 
-## Tech Stack (Core)
-**Languages:**  
-Rust, TypeScript, JavaScript, C++, Python
+## Currently
 
-**Real-Time & Backend:**  
-WebSockets, Node.js, Nginx, Redis, PostgreSQL/MySQL
+- Shipping Stackmates — real-time coding community platform
+- Scaling NutriSmart's AI features
+- Getting better at system design and backend architecture
 
-**Game Dev:**  
-Unity, Unreal Engine 5
+## Open to
 
-**Frontend (supporting):**  
-React, Vue, GSAP
+Collaborating on products that actually ship.
+If you're building something real — reach out.
 
----
+📧 sohailali8480@gmail.com  
+🌐 [Portfolio](https://sam-xi-eight.vercel.app)  
+💼 [LinkedIn](https://linkedin.com/in/yourhandle)
 
-## Contact
-- GitHub: https://github.com/sohailcodes-ai  
-- Email: sohailali8480@gmail.com  
-- Portfolio: https://samx-portfolio.vercel.app/
 
----
-
-> I care more about **correctness, performance, and architecture** than hype.
+*I care more about what ships than what sounds impressive.*
