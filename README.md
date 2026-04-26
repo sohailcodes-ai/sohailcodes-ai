@@ -11,7 +11,7 @@ Full-stack developer & solo builder. I don't just learn tech I ship things with 
 AI chat platform 1000+ characters, privacy-first, built and scaled solo.
 Stack: Next.js · Node.js · PostgreSQL · Redis · AWS (EC2/S3/CloudFront)
 
-**[NexOS](https://nexos-desktop.vercel.app)**
+**[NexOS](nexao.in)**
 A fully functional Web OS in the browser. Window manager, built-in apps,
 real file persistence all of it.
 Stack: React · Supabase · WebSockets · Railway · Anthropic API
