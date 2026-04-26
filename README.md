@@ -11,7 +11,7 @@ Full-stack developer & solo builder. I don't just learn tech I ship things with 
 AI chat platform 1000+ characters, privacy-first, built and scaled solo.
 Stack: Next.js · Node.js · PostgreSQL · Redis · AWS (EC2/S3/CloudFront)
 
-**[NexOS](nexao.in)**
+**[NexOS](https://nexao.in)**
 A fully functional Web OS in the browser. Window manager, built-in apps,
 real file persistence all of it.
 Stack: React · Supabase · WebSockets · Railway · Anthropic API
@@ -21,7 +21,7 @@ Developer community platform real-time coding rooms, multi-language compiler,
 XP system, daily challenges, AI support.
 Stack: Next.js · Node.js · WebSockets · PostgreSQL · Redis
 
-**NutriSmart / NutriWise AI** *(in progress)*
+**NutriSmart / NutriWise AI** *(https://nutri-wise.online)*
 AI-powered nutrition tracking. Not another calorie counter actually smart.
 Stack: React · Supabase · LLM integrations
 
