@@ -56,7 +56,7 @@ Interested in working on:
 - Email: sohailali8480@gmail.com  
 - Instagram: https://instagram.com/http.sohaill  
 - Discord: https://discord.gg/044646  
-
+- Portfolio: https://samx-portfolio.vercel.app
 ---
 
 ## 📊 GitHub Stats
