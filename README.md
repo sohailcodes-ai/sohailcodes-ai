@@ -52,23 +52,35 @@ Just code, experiments, questionable commits, and an unhealthy amount of curiosi
 
 ### Languages
 
-`TypeScript` `JavaScript` `Python` `C++` `C#` `Lua`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,cs,lua" />
+</p>
 
 ### Frontend / Web
 
-`React` `Next.js` `Vite` `Tailwind CSS` `Three.js`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs" />
+</p>
 
 ### Backend / Data
 
-`Node.js` `FastAPI` `Django` `PostgreSQL` `Redis` `REST` `WebSockets`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgres,redis" />
+</p>
 
-### Infrastructure
+### Infrastructure / Systems
 
-`Docker` `Kubernetes` `Linux` `CI/CD` `Vercel`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vercel" />
+</p>
 
 ### Game Development
 
-`Roblox Studio` `Luau` `Rojo` `Blender` `Three.js`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=robloxstudio,blender,threejs" />
+</p>
+
+**Also:** REST APIs · WebSockets · CI/CD · distributed systems · real-time systems
 
 ---
 
@@ -120,13 +132,21 @@ performance
 
 I tend to work from the inside out.
 
+```text
 Understand the requirements.
+        ↓
 Understand the architecture.
+        ↓
 Read the implementation.
+        ↓
 Find the actual bottleneck.
+        ↓
 Question the abstraction.
+        ↓
 Build the smallest thing that proves the idea.
-Then make it production-worthy.
+        ↓
+Make it production-worthy.
+```
 
 I don't particularly enjoy cargo-cult engineering.
 
@@ -138,7 +158,10 @@ If it doesn't work, I want to know **where the assumption was wrong**.
 
 ## 📊 GitHub
 
-<!-- GitHub stats / contribution graph -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohailcodes-ai&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailcodes-ai&layout=compact&hide_border=true&theme=transparent" height="170"/>
+</p>
 
 ---
 
