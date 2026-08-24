@@ -1,153 +1,93 @@
-Sohail (sᴀᴍ)
+<h1 align="left">sᴀᴍ</h1>
 
-Full-Stack Developer • Language Tooling • Real-Time Systems • Product Engineering
+<p align="left">
+  full-stack · systems · tooling
+</p>
 
-I build end-to-end software products with a focus on real-time interaction, developer tooling, scalable architecture, and practical user experience.
-
-My work ranges from full-stack platforms and browser-based systems to programming-language experiments and product-focused applications.
-
----
-
-🚀 Currently Building
-
-Vex
-
-A Hinglish-friendly programming language layer built on top of Python.
-
-- Designed to make programming more approachable without sacrificing Python compatibility
-- Supports readable Hinglish-style syntax and access to existing Python libraries
-- Includes a CLI, runtime tooling, and VS Code integration
-- Focused on language design, parsing, AST handling, and developer experience
-
-Meshio
-
-A high-level application-building DSL inspired by framework-style development.
-
-- Exploring concise syntax for defining apps, models, and backend structures
-- Built around lexer, parser, AST, and code-generation concepts
-- Intended to reduce repetitive setup while keeping application structure readable
-
-SYSTEM
-
-A progression-based productivity platform inspired by RPG mechanics.
-
-- Profession-based onboarding for developers, students, writers, artists, and other users
-- Personalized quests, XP, ranks, titles, streaks, and progression paths
-- Designed to turn real-world growth into a structured, engaging system
-- Planned architecture includes guilds, leaderboards, dungeons, and collaborative challenges
-
-Nyx OS
-
-A browser-based operating system abstraction focused on modularity and system-style interaction.
-
-- Modular desktop-style interface
-- Browser-driven application architecture
-- App sandboxing concepts and reusable system components
-- Focused on UI systems, extensibility, and clean separation between modules
-
-uncensored.chat
-
-A real-time communication platform built for fast, low-latency interaction.
-
-- Real-time messaging architecture
-- Responsive communication flow
-- Built with scalability and practical usability in mind
+<p align="left">
+  <a href="https://github.com/sohailcodes-ai">
+    <img src="https://komarev.com/ghpvc/?username=sohailcodes-ai" alt="views" />
+  </a>
+  <a href="https://github.com/sohailcodes-ai?tab=followers">
+    <img src="https://img.shields.io/github/followers/sohailcodes-ai?style=flat&logo=github" alt="followers" />
+  </a>
+</p>
 
 ---
 
-🧩 Selected Work
+### now
 
-Ethereal Slayer
+**Vex**  
+Programming language / compiler tooling.  
+Hinglish syntax → AST → Python backend / bytecode → VM.
 
-Live on the Google Play Store.
+[repo](https://github.com/sohailcodes-ai/Vex-Lang)
 
-- Built the animation and rendering system
-- Worked on smooth real-time performance
-- Focused on efficient asset handling and responsive visual behavior
+**Clutch**  
+In development.
 
-NutriWise
+**NEXAO**  
+Software / systems.
 
-A product-focused nutrition platform designed around practical food tracking and personalized guidance.
+[nexao.in](https://nexao.in)
 
-- End-to-end application development
-- Authentication, database integration, and product UI
-- Built with real-world usability in mind
-
-Shadow Rooms
-
-A real-time anonymous communication platform.
-
-- Public and private rooms
-- Presence, typing indicators, and live interactions
-- Built around WebSockets and real-time user experience
+**SYSTEM**  
+Productivity platform.
 
 ---
 
-⚙️ Core Expertise
+### work
 
-- Full-Stack Development
-- React, TypeScript, Node.js, Python
-- REST APIs and WebSocket-based systems
-- Backend Architecture
-- Real-Time Applications
-- Product Engineering
-- Developer Tooling
-- System Design Fundamentals
+**NutriverseAI**  
+Senior Software Engineer.
 
----
+[nutriverseai.com](https://nutriverseai.com)
 
-🧠 Working Knowledge
+**Ethereal Slayer**  
+Animation / rendering / performance.
 
-- PostgreSQL, MySQL, MongoDB, Redis
-- Docker, CI/CD, Linux
-- AWS, Vercel, Cloudflare
-- Performance Optimization
-- Parsing, ASTs, and Language Runtime Concepts
-- Rendering Pipelines and Modular UI Architecture
+[Google Play](https://play.google.com/store/apps/details?id=com.ripplefun.google.es)
 
----
+**uncensored.chat**  
+Real-time communication.
 
-🎯 Engineering Approach
+[uncensored.chat](https://uncensored.chat)
 
-- Build complete, usable products instead of isolated demos
-- Ship early, test with real users, and iterate quickly
-- Keep architecture maintainable without overengineering
-- Prioritize responsiveness, clean interfaces, and practical value
-- Learn systems by building them from the ground up
+**Shadow Rooms**  
+Anonymous real-time rooms / WebSockets.
+
+[repo](https://github.com/sohailcodes-ai/Shadow-Rooms)
 
 ---
 
-🤝 Open to Collaboration
+### stack
 
-Interested in working on:
+`TypeScript` `Python` `C/C++` `C#`
 
-- Real-time platforms
-- Developer tools and programming-language projects
-- Full-stack products with meaningful user impact
-- Multiplayer, chat, and live interaction systems
-- Startup-oriented product engineering
+`React` `Next.js` `Node.js` `Django` `FastAPI`
 
----
+`PostgreSQL` `MySQL` `MongoDB` `Redis`
 
-📫 Contact
-
-- Email: sohailali8480@gmail.com
-- Instagram: https://instagram.com/http.sohaill
-- Discord: https://discord.gg/044646
-- Portfolio: https://samx-portfolio.vercel.app
+`Docker` `Linux` `AWS` `Cloudflare` `Vercel`
 
 ---
 
-📊 GitHub Stats
+### interested in
 
-https://github-readme-stats.vercel.app/api?username=sohailcodes-ai&theme=dark&hide_border=true&count_private=true&show_icons=true
-
-https://streak-stats.demolab.com/?user=sohailcodes-ai&theme=dark&hide_border=true
+language tooling · backend · real-time systems · product engineering
 
 ---
 
-⚠️ Note
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohailcodes-ai&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+</p>
 
-I prioritize building real products over collecting technologies.
-
-Most of my work reflects practical systems, active experimentation, and the process of turning ambitious ideas into usable software.
+<p align="left">
+  <a href="https://samx-portfolio.vercel.app">portfolio</a>
+  ·
+  <a href="mailto:sohailali8480@gmail.com">email</a>
+  ·
+  <a href="https://instagram.com/http.sohaill">instagram</a>
+  ·
+  <a href="https://discord.gg/044646">discord</a>
+</p>
