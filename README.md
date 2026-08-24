@@ -1,18 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sam
-============================================================================================================================
+# Hi, I'm Sam 👋
 
-Full-stack developer · Systems · AI · Game development
-------------------------------------------------------
+**Full-stack developer · systems · AI · game development**
 
 I write code, break it, read the source, wonder why it works, then keep going.
 
-Mostly full-stack, backend, systems, AI, game dev, and whatever else looks interesting enough to reverse-engineer. I work with TypeScript, JavaScript, Python, C++, C#, Lua, React, Next.js, Node, FastAPI, Django, PostgreSQL, Redis, Docker, Kubernetes, Three.js and Roblox.
+Mostly full-stack, backend, systems, AI, game dev, and whatever else looks interesting enough to reverse-engineer. I work with TypeScript, JavaScript, Python, C++, C#, Lua, React, Next.js, Node.js, FastAPI, Django, PostgreSQL, Redis, Docker, Kubernetes, Three.js, and Roblox.
 
-I like the parts of software that are easy to ignore until they stop working — state machines, race conditions, queues, transactions, caching, evaluation pipelines, networking, persistence, concurrency, weird edge cases, and APIs that somehow ended up with 14 layers of bullshit around a database query.
+I like the parts of software that are easy to ignore until they stop working — state machines, race conditions, queues, transactions, caching, evaluation pipelines, networking, persistence, concurrency, weird edge cases, and APIs that somehow ended up with fourteen layers of bullshit around a database query.
 
 I build stuff instead of collecting tech badges. Some of it turns into actual products. Some of it turns into a repo with 3 AM commits and a questionable architecture decision that I refuse to delete.
 
-I've built full-stack apps, AI systems, developer tooling, transpilers, real-time systems, competitive programming infrastructure, and Roblox game systems. Currently messing with projects like Clutch, NutriWise AI, Vex-Lang, LIMEN and whatever idea happens to survive long enough to get a repository.
+I've built full-stack apps, AI systems, developer tooling, transpilers, real-time systems, competitive programming infrastructure, and Roblox game systems. Right now I'm messing with projects like **Clutch**, **NutriWise AI**, **Vex-Lang**, **LIMEN**, and whatever idea survives long enough to get a repository.
 
 I enjoy backend work probably more than is socially acceptable.
 
@@ -22,47 +20,136 @@ I don't really care about being locked into one stack either. Language is mostly
 
 I like compilers. I like networking. I like distributed systems. I like game engines. I like seeing how things work internally. I like abusing abstractions until I understand where they stop being abstractions.
 
-Currently learning more about system design, infrastructure, performance, backend architecture, AI engineering, and generally writing less shit code than I did six months ago.
+Currently learning distributed systems, networking, compilers, concurrency, databases, system design, infrastructure, performance, backend architecture, AI engineering, and generally how to write less shit code than I did six months ago.
 
 No motivational developer quotes here.
 
 Just code, experiments, questionable commits, and an unhealthy amount of curiosity.
 
-* 🌍  I'm based in India (unfortunately)
-* 🖥️  See my portfolio at [My port..](http://samx-portfolio.vercel.app)
-* ✉️  You can contact me at [sohailali8480@gmail.com](mailto:sohailali8480@gmail.com)
-* 🚀  I'm currently working on [Astra AI](http://astra-ai.co/en)
-* 🧠  I'm currently learning currently learning distributed systems, networking, compilers, concurrency, databases, systems design + whatever weird shit I stumble into while building.
-* 👥  I'm looking to collaborate on Open-Source Game Engines
-* 💬  Ask me about somewhere between "it works" and "why does it work"
+---
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://www.onflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flow-colored.svg" alt="Flow" title="Flow" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://webflow.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow-colored.svg" alt="Webflow" title="Webflow" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+## 🚀 What I'm Doing
+
+* **Building:** [Astra AI](https://astra-ai.co/en)
+* **Working on:** full-stack products, backend systems, AI tooling, game systems
+* **Learning:** distributed systems, networking, compilers, concurrency, databases, infrastructure
+* **Open to:** open-source game engines, interesting systems projects, and weird technical problems
+* **Currently:** probably overengineering something that did not need to be overengineered
+
+---
+
+## 🧰 Things I Actually Use
+
+### Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="42" height="42" alt="Lua" title="Lua" />
 </p>
 
-### Socials
+### Frontend / Web
 
-<p align="left"> <a href="https://www.github.com/sohailcodes-ai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/sohailcodes-ai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.threads.net/@flaskapi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://discord.com/users/api.sam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/sohailcodes-ai" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sohailcodes-ai?logo=github&style=for-the-badge&color=facc15&labelColor=365314" /></a>
-### Badges
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="42" height="42" alt="Vite" title="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" />
+</p>
 
-<b>My GitHub Stats</b>
+### Backend / Data / Infra
 
-<a href="http://www.github.com/sohailcodes-ai"><img src="https://github-readme-stats.vercel.app/api?username=sohailcodes-ai&show_icons=true&hide=prs,issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=365314&hide_border=true&show_icons=true" alt="sohailcodes-ai's GitHub stats" /></a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" height="42" alt="Django" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux" />
+</p>
 
-<a href="http://www.github.com/sohailcodes-ai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sohailcodes-ai&stroke=ffffff&background=365314&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Tools / Other
 
-<b>Top Repositories</b>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" height="42" alt="Bash" title="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="42" height="42" alt="Three.js" title="Three.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="42" height="42" alt="Blender" title="Blender" />
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/sohailcodes-ai/Vex-Lang" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sohailcodes-ai&repo=Vex-Lang&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=365314&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
 
-### Support Me
+## 🧪 Stuff I've Built
 
-<ul style="list-style-type: none; margin: 0;">
+### [Clutch](https://github.com/sohailcodes-ai/clutch)
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/flask"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+Competitive coding infrastructure with automated evaluation, match resolution, ELO, forfeits, adjudication, transactional state transitions, and realtime updates.
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/flask"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+### [Vex-Lang](https://github.com/sohailcodes-ai/Vex-Lang)
 
-</ul>
+A Hinglish → Python transpiler experiment because apparently normal programming languages weren't enough.
+
+### NutriWise AI
+
+Full-stack nutrition application with AI-powered food analysis, database-backed tracking, and a modern web stack.
+
+### LIMEN
+
+Experimental interactive web experience built around 3D, motion, atmosphere, and cinematic UI.
+
+---
+
+## 🧠 Things I Find Interesting
+
+```text
+compilers
+distributed systems
+networking
+concurrency
+databases
+backend architecture
+game engines
+real-time systems
+developer tooling
+AI systems
+graphics
+protocols
+performance
+```
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohailcodes-ai&show_icons=true&count_private=true&hide_border=true&theme=transparent" alt="Sam's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailcodes-ai&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sohailcodes-ai&hide_border=true&theme=transparent" alt="GitHub streak" />
+</p>
+
+---
+
+## 🌐 Elsewhere
+
+* 🌍 India
+* 🖥️ [Portfolio](https://samx-portfolio.vercel.app)
+* ✉️ [Email](mailto:sohailali8480@gmail.com)
+* 💻 [GitHub](https://github.com/sohailcodes-ai)
+* 🚀 [Astra AI](https://astra-ai.co/en)
+
+---
+
+<p align="center">
+  <sub>probably overengineering something right now.</sub>
+</p>
