@@ -1,93 +1,23 @@
-<h1 align="left">sᴀᴍ</h1>
+I write code, break it, read the source, wonder why it works, then keep going.
 
-<p align="left">
-  full-stack · systems · tooling
-</p>
+Mostly full-stack, backend, systems, AI, game dev, and whatever else looks interesting enough to reverse-engineer. I work with TypeScript, JavaScript, Python, C++, C#, Lua, React, Next.js, Node, FastAPI, Django, PostgreSQL, Redis, Docker, Kubernetes, Three.js and Roblox.
 
-<p align="left">
-  <a href="https://github.com/sohailcodes-ai">
-    <img src="https://komarev.com/ghpvc/?username=sohailcodes-ai" alt="views" />
-  </a>
-  <a href="https://github.com/sohailcodes-ai?tab=followers">
-    <img src="https://img.shields.io/github/followers/sohailcodes-ai?style=flat&logo=github" alt="followers" />
-  </a>
-</p>
+I like the parts of software that are easy to ignore until they stop working — state machines, race conditions, queues, transactions, caching, evaluation pipelines, networking, persistence, concurrency, weird edge cases, and APIs that somehow ended up with 14 layers of bullshit around a database query.
 
----
+I build stuff instead of collecting tech badges. Some of it turns into actual products. Some of it turns into a repo with 3 AM commits and a questionable architecture decision that I refuse to delete.
 
-### now
+I've built full-stack apps, AI systems, developer tooling, transpilers, real-time systems, competitive programming infrastructure, and Roblox game systems. Currently messing with projects like Clutch, NutriWise AI, Vex-Lang, LIMEN and whatever idea happens to survive long enough to get a repository.
 
-**Vex**  
-Programming language / compiler tooling.  
-Hinglish syntax → AST → Python backend / bytecode → VM.
+I enjoy backend work probably more than is socially acceptable.
 
-[repo](https://github.com/sohailcodes-ai/Vex-Lang)
+Give me a messy codebase, undocumented API, broken state transition, suspicious database schema, or some random protocol someone thought was "simple" and I'll probably end up digging through it just to understand what the hell is actually happening.
 
-**Clutch**  
-In development.
+I don't really care about being locked into one stack either. Language is mostly syntax; the interesting part is the system underneath it.
 
-**NEXAO**  
-Software / systems.
+I like compilers. I like networking. I like distributed systems. I like game engines. I like seeing how things work internally. I like abusing abstractions until I understand where they stop being abstractions.
 
-[nexao.in](https://nexao.in)
+Currently learning more about system design, infrastructure, performance, backend architecture, AI engineering, and generally writing less shit code than I did six months ago.
 
-**SYSTEM**  
-Productivity platform.
+No motivational developer quotes here.
 
----
-
-### work
-
-**NutriverseAI**  
-Senior Software Engineer.
-
-[nutriverseai.com](https://nutriverseai.com)
-
-**Ethereal Slayer**  
-Animation / rendering / performance.
-
-[Google Play](https://play.google.com/store/apps/details?id=com.ripplefun.google.es)
-
-**uncensored.chat**  
-Real-time communication.
-
-[uncensored.chat](https://uncensored.chat)
-
-**Shadow Rooms**  
-Anonymous real-time rooms / WebSockets.
-
-[repo](https://github.com/sohailcodes-ai/Shadow-Rooms)
-
----
-
-### stack
-
-`TypeScript` `Python` `C/C++` `C#`
-
-`React` `Next.js` `Node.js` `Django` `FastAPI`
-
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
-
-`Docker` `Linux` `AWS` `Cloudflare` `Vercel`
-
----
-
-### interested in
-
-language tooling · backend · real-time systems · product engineering
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohailcodes-ai&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-</p>
-
-<p align="left">
-  <a href="https://samx-portfolio.vercel.app">portfolio</a>
-  ·
-  <a href="mailto:sohailali8480@gmail.com">email</a>
-  ·
-  <a href="https://instagram.com/http.sohaill">instagram</a>
-  ·
-  <a href="https://discord.gg/044646">discord</a>
-</p>
+Just code, experiments, questionable commits, and an unhealthy amount of curiosity.
