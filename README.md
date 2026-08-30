@@ -1,114 +1,124 @@
-# Hi, I'm Sam 👋
+# Hi, I'm Sam
 
-**Full-stack developer · systems · AI · game development**
+**Systems-focused developer · backend · realtime · compilers · AI**
 
 I build software, break it, read the source, figure out why it broke, and usually end up going deeper than I originally intended.
 
-My work spans **full-stack applications, backend systems, AI, developer tooling, game development, and systems engineering**. I care less about the framework of the week and more about understanding what actually happens underneath it.
+I care less about the framework of the week and more about **what actually happens underneath it** — state machines, concurrency, networking, persistence, queues, runtimes, execution, and the weird edge cases that appear once a prototype becomes a real system.
 
-I work with **TypeScript, JavaScript, Python, C++, C#, Lua, React, Next.js, Node.js, FastAPI, Django, PostgreSQL, Redis, Docker, Kubernetes, Three.js, and Roblox**.
-
-The stuff I find interesting is usually the stuff people don't notice until it fails:
-
-* state machines
-* concurrency
-* race conditions
-* queues
-* transactions
-* caching
-* persistence
-* networking
-* distributed systems
-* evaluation pipelines
-* APIs
-* performance
-* weird edge cases
-
-Give me a messy codebase, undocumented API, suspicious database schema, broken state transition, or some protocol described as "simple" and there's a decent chance I'll start digging through the implementation just to understand what's actually happening.
-
-I build things rather than collect technologies. Some become products. Some become experiments. Some become repositories containing questionable 3 AM decisions that somehow survived code review.
-
-I enjoy backend and systems work probably more than is socially acceptable.
-
-Currently going deeper into **distributed systems, networking, compilers, concurrency, databases, infrastructure, system design, backend architecture, AI engineering, and performance**.
-
-No motivational developer quotes here.
-
-Just code, experiments, questionable commits, and an unhealthy amount of curiosity.
+Some things I build become products.
+Some become experiments.
+Some become repositories containing questionable 3 AM decisions that somehow survived code review.
 
 ---
 
-## 🚀 What I'm Doing
+## What I Build
 
-* **Building:** [Astra AI](https://astra-ai.co/en)
-* **Working on:** full-stack products, backend systems, AI tooling, and game systems
-* **Learning:** distributed systems, networking, compilers, concurrency, databases, and infrastructure
-* **Exploring:** game engines, protocols, developer tooling, graphics, and systems programming
-* **Currently:** probably overengineering something that absolutely did not need to be overengineered
+My work sits mostly around **systems-heavy software**:
 
----
+* Backend & distributed systems
+* Realtime applications
+* Compilers & runtimes
+* Developer tooling
+* AI systems
+* Game systems
+* Full-stack products
 
-## 🧰 Stack
-
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,cs,lua" />
-</p>
-
-### Frontend / Web
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs" />
-</p>
-
-### Backend / Data
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgres,redis" />
-</p>
-
-### Infrastructure / Systems
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vercel" />
-</p>
-
-### Game Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=robloxstudio,blender,threejs" />
-</p>
-
-**Also:** REST APIs · WebSockets · CI/CD · distributed systems · real-time systems
+I enjoy taking something that looks simple on the surface and figuring out what it actually requires underneath.
 
 ---
 
-## 🧪 Selected Projects
+# Selected Work
 
 ### [Clutch](https://github.com/sohailcodes-ai/clutch)
 
-Competitive coding infrastructure focused on the parts that get complicated once a "simple matchmaking system" becomes a real system.
+**Competitive coding infrastructure**
 
-Automated evaluation, match resolution, ELO, forfeits, adjudication, transactional state transitions, and realtime updates.
+A competitive coding platform built around server-authoritative matches and real code execution.
 
-### [Vex-Lang](https://github.com/sohailcodes-ai/Vex-Lang)
+* Matchmaking & placement
+* ELO, streaks & seasonal progression
+* Tournaments & titles
+* BullMQ-based asynchronous evaluation
+* WebSocket realtime state
+* Docker-isolated code execution
+* Python, JavaScript, TypeScript, C++, Java, Go & Rust
+* PostgreSQL + Redis
 
-A **Hinglish → Python transpiler**.
-
-Because apparently Python wasn't already readable enough.
-
-### NutriWise AI
-
-Full-stack nutrition platform combining AI-powered food analysis with database-backed tracking and a modern web stack.
-
-### LIMEN
-
-Experimental interactive web experience built around **3D, motion, atmosphere, sound, and cinematic UI**.
+**TypeScript · Next.js · Fastify · PostgreSQL · Redis · BullMQ · Docker · WebSockets**
 
 ---
 
-## 🧠 Things I Find Interesting
+### [Vex-Lang](https://github.com/sohailcodes-ai/Vex-Lang)
+
+**Programming language + runtime**
+
+A Hinglish-inspired programming language with its own lexer, parser, AST pipeline, bytecode compiler, virtual machine, Python backend and CLI tooling.
+
+```text
+Vex Source
+    ↓
+  Lexer
+    ↓
+  Parser
+    ↓
+   AST
+   ↙ ↘
+Python  Bytecode
+Backend Compiler
+   ↓      ↓
+CPython  Vex VM
+```
+
+* Custom lexer & parser
+* AST generation
+* Python code generation
+* Bytecode compiler
+* Virtual machine
+* CLI tooling
+* Token / AST / bytecode inspection
+* PyPI distribution
+* VS Code tooling
+* Automated tests
+
+**Python · Compilers · Bytecode · Virtual Machines · CLI**
+
+---
+
+### [Shadow Rooms](https://github.com/sohailcodes-ai/Shadow-Rooms)
+
+**Realtime social collaboration**
+
+A room-based application built around private spaces, realtime communication, and persistent server-side state.
+
+* Realtime rooms
+* Presence & typing state
+* WebSocket event system
+* Chat & polls
+* Collaborative interactions
+* HTTP / REST APIs
+* Redis-backed transient state
+* Database persistence
+* Docker-isolated workloads
+
+**React · TypeScript · Vite · Node.js · WebSockets · Redis · Docker**
+
+---
+
+## Other Work
+
+**NutriWise AI**
+AI-powered food analysis and nutrition tracking built as a full-stack application.
+
+**LIMEN**
+Experimental interactive web experience focused on 3D, motion, sound, atmosphere, and cinematic UI.
+
+**Game Development**
+Roblox systems, gameplay architecture, networking, UI, combat systems, and interactive experiences.
+
+---
+
+## Engineering Interests
 
 ```text
 compilers
@@ -117,10 +127,11 @@ networking
 concurrency
 databases
 backend architecture
-game engines
-real-time systems
+realtime systems
 developer tooling
+infrastructure
 AI systems
+game systems
 graphics
 protocols
 performance
@@ -128,50 +139,75 @@ performance
 
 ---
 
-## 🔬 How I Like to Work
+## Stack
+
+### Languages
+
+TypeScript · JavaScript · Python · C++ · C# · Lua
+
+### Web
+
+React · Next.js · Vite · Tailwind · Three.js
+
+### Backend
+
+Node.js · FastAPI · Django · REST · WebSockets
+
+### Data
+
+PostgreSQL · MySQL · MongoDB · Redis
+
+### Infrastructure
+
+Docker · Kubernetes · Linux · CI/CD · Git
+
+### Game Development
+
+Roblox · Roblox Studio · Blender
+
+---
+
+## How I Work
 
 I tend to work from the inside out.
 
 ```text
-Understand the requirements.
-        ↓
-Understand the architecture.
-        ↓
-Read the implementation.
-        ↓
-Find the actual bottleneck.
-        ↓
-Question the abstraction.
-        ↓
-Build the smallest thing that proves the idea.
-        ↓
-Make it production-worthy.
+Understand the requirements
+          ↓
+Understand the architecture
+          ↓
+Read the implementation
+          ↓
+Find the actual bottleneck
+          ↓
+Question the abstraction
+          ↓
+Build the smallest thing that proves the idea
+          ↓
+Make it production-worthy
 ```
+
+If something works, I want to know **why**.
+
+If it doesn't, I want to know **which assumption was wrong**.
 
 I don't particularly enjoy cargo-cult engineering.
 
-If something works, I want to know **why** it works.
+---
 
-If it doesn't work, I want to know **where the assumption was wrong**.
+## Currently
+
+Going deeper into:
+
+**distributed systems · networking · compilers · concurrency · databases · infrastructure · backend architecture · AI engineering · performance**
+
+Probably overengineering something that absolutely did not need to be overengineered.
 
 ---
 
-## 📊 GitHub
+## Links
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohailcodes-ai&show_icons=true&hide_border=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohailcodes-ai&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
-
----
-
-## 🌐 Elsewhere
-
-* 🌍 India
-* 🖥️ [Portfolio](https://samx-portfolio.vercel.app/)
-* 💻 [GitHub](https://github.com/sohailcodes-ai)
-* 🚀 [Astra AI](https://astra-ai.co/en)
-* ✉️ [Email](mailto:sohailali8480@gmail.com)
+[Portfolio](https://samx-portfolio.vercel.app/) · [GitHub](https://github.com/sohailcodes-ai) · [Astra AI](https://astra-ai.co/en)
 
 ---
 
