@@ -4,7 +4,7 @@
 
 I build software, break it, read the source, figure out why it broke — and then usually go one layer deeper.
 
-I'm interested in what happens **underneath the abstraction**: state machines, concurrency, networking, persistence, queues, runtimes, execution, protocols, and the edge cases that show up when a prototype becomes a real system.
+I'm interested in what happens **underneath the abstraction**: state machines, concurrency, networking, persistence, queues, runtimes, execution, protocols, and the edge cases that appear when a prototype becomes a real system.
 
 Some things become products.
 Some become experiments.
@@ -16,16 +16,45 @@ Some become repositories containing questionable 3 AM decisions that somehow sur
 
 I gravitate toward software where the interesting problems aren't immediately visible from the UI.
 
-* **Distributed & backend systems**
+* **Backend & distributed systems**
 * **Realtime applications**
 * **Compilers & runtimes**
 * **Developer tooling**
+* **Infrastructure**
 * **AI systems**
 * **Game systems**
-* **Infrastructure**
-* **Full-stack products**
 
-I like taking something that looks simple from the outside and figuring out what it actually takes to make it work underneath.
+I like taking something that looks simple from the outside and figuring out what it actually requires underneath.
+
+---
+
+## How I Think About Engineering
+
+I generally work from the **inside out**.
+
+```text
+Requirements
+     ↓
+Architecture
+     ↓
+Implementation
+     ↓
+Failure modes
+     ↓
+Bottlenecks
+     ↓
+Question the abstraction
+     ↓
+Prove the smallest viable idea
+     ↓
+Harden the system
+```
+
+If something works, I want to know **why**.
+
+If something fails, I want to know **which assumption was wrong**.
+
+I don't particularly enjoy cargo-cult engineering.
 
 ---
 
@@ -37,11 +66,7 @@ I like taking something that looks simple from the outside and figuring out what
 
 A competitive coding platform built around **server-authoritative matches, real code execution, and persistent player progression.**
 
-**Built with:**
-
-`TypeScript` `Next.js` `Fastify` `PostgreSQL` `Redis` `BullMQ` `Docker` `WebSockets`
-
-**Systems:**
+**Systems**
 
 * Matchmaking & placement matches
 * ELO, streaks & seasonal progression
@@ -52,7 +77,13 @@ A competitive coding platform built around **server-authoritative matches, real 
 * Multi-language runtimes
 * Persistent player state
 
-**Runtimes:** Python · JavaScript · TypeScript · C++ · Java · Go · Rust
+**Stack**
+
+`TypeScript` `Next.js` `Fastify` `PostgreSQL` `Redis` `BullMQ` `Docker` `WebSockets`
+
+**Runtimes**
+
+`Python` `JavaScript` `TypeScript` `C++` `Java` `Go` `Rust`
 
 → [View Clutch](https://github.com/sohailcodes-ai/clutch)
 
@@ -80,7 +111,7 @@ A Hinglish-inspired programming language built from the ground up with its own *
                  CPython     Vex VM
 ```
 
-**Includes:**
+**Includes**
 
 * Custom lexer & parser
 * AST generation
@@ -89,7 +120,7 @@ A Hinglish-inspired programming language built from the ground up with its own *
 * Virtual machine
 * CLI tooling
 * Token / AST / bytecode inspection
-* Automated test suite
+* Automated tests
 * PyPI distribution
 * VS Code tooling
 
@@ -101,11 +132,11 @@ A Hinglish-inspired programming language built from the ground up with its own *
 
 ### 🌐 Shadow Rooms
 
-**Realtime social collaboration**
+**Realtime collaboration**
 
 A room-based realtime application built around **private spaces, persistent state, presence, and event-driven communication.**
 
-**Systems:**
+**Systems**
 
 * Realtime rooms
 * Presence & typing state
@@ -149,23 +180,21 @@ Roblox systems, gameplay architecture, networking, UI, combat systems, world bui
 
 ---
 
-# Engineering Interests
+## Engineering Interests
 
 ```text
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  Compilers              Distributed Systems     │
-│  Networking             Concurrency             │
-│  Databases              Backend Architecture    │
-│  Realtime Systems       Developer Tooling       │
-│  Infrastructure         AI Systems              │
-│  Game Systems            Graphics               │
-│  Protocols              Performance             │
-│                                                 │
-└─────────────────────────────────────────────────┘
+Compilers              Distributed Systems
+Networking             Concurrency
+Databases              Backend Architecture
+Realtime Systems       Developer Tooling
+Infrastructure         AI Systems
+Game Systems           Graphics
+Protocols              Performance
 ```
 
-# Stack
+---
+
+## Stack
 
 ### Languages
 
@@ -182,11 +211,7 @@ Roblox systems, gameplay architecture, networking, UI, combat systems, world bui
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,express" />
 </p>
 
 `REST` · `WebSockets`
@@ -211,63 +236,17 @@ Roblox systems, gameplay architecture, networking, UI, combat systems, world bui
 
 ---
 
-# Beyond the Stack
+## Currently
 
-I don't want to be defined by a list of technologies.
-
-Frameworks change. Languages change. Infrastructure changes.
-
-The underlying problems don't.
-
-I'm particularly interested in:
-
-```text
-                    SYSTEMS
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-     Runtime        Network        Storage
-        │              │              │
-    Compilers      Protocols      Databases
-        │              │              │
-       VM          Realtime       Persistence
-        │              │              │
-        └──────────────┼──────────────┘
-                       │
-                  Architecture
-                       │
-                  Applications
-```
-
-The goal isn't to know every tool.
-
-It's to understand the machine well enough that the tool becomes secondary.
-
----
-
-# What I'm Working On
-
-Currently going deeper into:
+Going deeper into:
 
 **Distributed Systems · Networking · Compilers · Concurrency · Databases · Infrastructure · Backend Architecture · AI Engineering · Performance**
 
-And building things that force me to actually understand them.
+Building projects that force me to understand the underlying systems rather than just use the abstraction.
 
 ---
 
-# A Few Things I Believe
-
-> **Abstractions are useful. Understanding what they hide is better.**
-
-> **If you can't explain why it works, you probably don't understand it yet.**
-
-> **Production is where assumptions go to die.**
-
-> **Read the source before blaming the framework.**
-
----
-
-# Connect
+## Connect
 
 <p align="left">
   <a href="https://github.com/sohailcodes-ai">
@@ -281,41 +260,4 @@ And building things that force me to actually understand them.
 
 ---
 
-### Currently building.
-
-### Currently breaking.
-
-### Currently learning why.
-
-<br>
-
-**Build things. Read the source. Understand the system.**
-
-
-# How I Think About Engineering
-
-I generally work from the **inside out**.
-
-```text
-Requirements
-     ↓
-Architecture
-     ↓
-Implementation
-     ↓
-Failure modes
-     ↓
-Bottlenecks
-     ↓
-Question the abstraction
-     ↓
-Prove the smallest viable idea
-     ↓
-Harden the system
-```
-
-If something works, I want to know **why**.
-
-If something fails, I want to know **which assumption was wrong**.
-
-I have very little interest in cargo-cult engineering.
+### Build things. Read the source. Understand the system.
