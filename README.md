@@ -332,12 +332,4 @@ And, inevitably, overengineering something that absolutely did not need to be ov
 
 ---
 
-# Find Me
-
-**Portfolio** → https://samx-portfolio.vercel.app/
-**GitHub** → https://github.com/sohailcodes-ai
-**Astra AI** → https://astra-ai.co/en
-
----
-
 > **Build things. Read the source. Understand the system.**
