@@ -165,35 +165,132 @@ Roblox systems, gameplay architecture, networking, UI, combat systems, world bui
 └─────────────────────────────────────────────────┘
 ```
 
----
-
 # Stack
 
 ### Languages
 
-`TypeScript` `JavaScript` `Python` `C++` `C#` `Lua`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,cs,lua" />
+</p>
 
 ### Web
 
-`React` `Next.js` `Vite` `Tailwind` `Three.js`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs" />
+</p>
 
 ### Backend
 
-`Node.js` `FastAPI` `Django` `REST` `WebSockets`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django" />
+</p>
 
-### Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express" />
+</p>
 
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
+`REST` · `WebSockets`
 
-### Infrastructure
+### Databases
 
-`Docker` `Kubernetes` `Linux` `CI/CD` `Git`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Infrastructure & Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,githubactions" />
+</p>
 
 ### Game Development
 
-`Roblox` `Roblox Studio` `Blender`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=robloxstudio,blender" />
+</p>
 
 ---
+
+# Beyond the Stack
+
+I don't want to be defined by a list of technologies.
+
+Frameworks change. Languages change. Infrastructure changes.
+
+The underlying problems don't.
+
+I'm particularly interested in:
+
+```text
+                    SYSTEMS
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+     Runtime        Network        Storage
+        │              │              │
+    Compilers      Protocols      Databases
+        │              │              │
+       VM          Realtime       Persistence
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                  Architecture
+                       │
+                  Applications
+```
+
+The goal isn't to know every tool.
+
+It's to understand the machine well enough that the tool becomes secondary.
+
+---
+
+# What I'm Working On
+
+Currently going deeper into:
+
+**Distributed Systems · Networking · Compilers · Concurrency · Databases · Infrastructure · Backend Architecture · AI Engineering · Performance**
+
+And building things that force me to actually understand them.
+
+---
+
+# A Few Things I Believe
+
+> **Abstractions are useful. Understanding what they hide is better.**
+
+> **If you can't explain why it works, you probably don't understand it yet.**
+
+> **Production is where assumptions go to die.**
+
+> **Read the source before blaming the framework.**
+
+---
+
+# Connect
+
+<p align="left">
+  <a href="https://github.com/sohailcodes-ai">
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
+  </a>
+  &nbsp;
+  <a href="https://samx-portfolio.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="48" />
+  </a>
+</p>
+
+---
+
+### Currently building.
+
+### Currently breaking.
+
+### Currently learning why.
+
+<br>
+
+**Build things. Read the source. Understand the system.**
+
 
 # How I Think About Engineering
 
