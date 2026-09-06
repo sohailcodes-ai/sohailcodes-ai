@@ -319,17 +319,3 @@ If something works, I want to know **why**.
 If something fails, I want to know **which assumption was wrong**.
 
 I have very little interest in cargo-cult engineering.
-
----
-
-# Currently
-
-Going deeper into:
-
-**distributed systems · networking · compilers · concurrency · databases · infrastructure · backend architecture · AI engineering · performance**
-
-And, inevitably, overengineering something that absolutely did not need to be overengineered.
-
----
-
-> **Build things. Read the source. Understand the system.**
